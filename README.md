@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<h3 align="center">techstack:</h3>
+<h3 align="left">techstack:</h3>
 <div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
        alt="aws" style="width:60px; height:60px;" />
