@@ -22,22 +22,16 @@
        alt="cplusplus" style="width:60px; height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
        alt="csharp" style="width:60px; height:60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-       alt="css3" style="width:60px; height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
        alt="docker" style="width:60px; height:60px;" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
        alt="firebase" style="width:60px; height:60px;" />
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
        alt="flutter" style="width:60px; height:60px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-       alt="html5" style="width:60px; height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
        alt="java" style="width:60px; height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
        alt="javascript" style="width:60px; height:60px;" />
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
-       alt="kotlin" style="width:60px; height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
        alt="linux" style="width:60px; height:60px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
