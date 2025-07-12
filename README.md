@@ -1,5 +1,5 @@
 <h1 align="center">hey there, i'm sree</h1>
-<h3 align="center">research & building - interested in hpc, statmech, quantum info, and interdisciplinary innovation</h3>
+<h3 align="center">research + building - interested in HPC, statmech, quantum info, and HCI</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sreeatyam&label=Profile%20views&color=0e75b6&style=flat"
